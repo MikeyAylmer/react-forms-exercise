@@ -1,0 +1,6 @@
+.Box {
+    text-align: center;
+    display: inline-block;
+    box-shadow: 0 3px 3px 0 grey;
+    margin: 10px;
+}
